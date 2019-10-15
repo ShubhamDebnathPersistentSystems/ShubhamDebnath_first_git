@@ -4,7 +4,7 @@ We have made some changes to 2nd line
 
 class HelloGi{
 
-	main(){
+	public static void main(String args[]){
 
 		sysout("Welcome to git");
 	}
