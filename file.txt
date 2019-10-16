@@ -11,6 +11,7 @@ class HelloGi{
 	system.out.println(" THis change was made from GitHub");
 	}
 	
+
 public String myMthod(){
 	//system.out.println("Hi from method");
 	return "Hi from method";
