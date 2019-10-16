@@ -8,5 +8,10 @@ class HelloGi{
 
 	system.out.println("Welcome to git");
 	system.out.println(" I have made some new changes");
+	system.out.println(" THis change was made from GitHub");
 	}
+	
+public void myMthod(){
+	system.out.println("Hi from method");
+}
 }
