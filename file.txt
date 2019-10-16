@@ -6,6 +6,7 @@ class HelloGi{
 
 	public static void main(String args[]){
 
-/ e asd		system.out.println("Welcome to git");
+	system.out.println("Welcome to git");
+	system.out.println(" I have made some new changes");
 	}
 }
