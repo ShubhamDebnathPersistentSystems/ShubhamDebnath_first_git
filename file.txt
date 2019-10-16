@@ -14,4 +14,9 @@ class HelloGi{
 public void myMthod(){
 	system.out.println("Hi from method");
 }
+
+public void newMethod(){
+
+	system.out.println("hello there");
+}
 }
